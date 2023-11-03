@@ -1,0 +1,123 @@
+header{
+    background-image: url(../img/HD\ wallpaper_\ Boeing\ 747-8\ aircraft\ takeoff\,\ dawn\,\ Lufthansa.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 100px;
+}
+.logo{
+    margin-left: 200px;
+    margin-top: 50px;
+    
+}
+.contact-link{
+    width: 20px;
+}
+.nav-text{
+padding-left: 100px;
+margin-top: 10px;
+}
+.nav-text li{
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 20px;
+}
+.nav-text li:hover{
+    text-decoration-line: overline;
+}
+.call-us{
+    text-decoration: none;
+    font-size: 20px;
+    list-style: none;
+    font-weight: bold;
+    color:;
+    padding-top: 43px;
+    padding-left: 80px;
+}
+.head-text{
+    margin-top: 150px;
+    
+}
+
+.head-text h1{
+    font-size: 80px;
+    padding-bottom: 100px;
+}
+.search-trip-box{
+    
+    margin: auto;
+}
+.search-trip{
+width: 300px;
+
+}
+.search-trip h3{
+    border-radius: 20px 20px 0px 0px;
+    
+}
+.search-trip-input{
+text-align: center;
+}
+.search-trip-input div input{
+    margin-top: 12px;
+    padding: 15px;
+    border: grey;
+    background-color: rgb(165, 163, 163);
+}
+.w-exp{
+    width: 230px;
+}
+.search-trip-input div input::placeholder{
+    color: black;
+    padding-left: 10px;
+}
+.top-destination{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+hr{
+    margin-left: 150px;
+    margin-right: 150px;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 100px;
+}
+.popular-destination{
+    padding-top:100px ;
+}
+.popular-destination-2{
+padding-top: 20px;
+margin-bottom: 110px;
+}
+.popular-destination-pics{
+width: 100%;
+padding: 10px;
+}
+.best-tips-flight{
+    margin: 0px;
+    padding: 0%;
+}
+.best-tips-flight img{
+    width: 100%;
+}
+.btf-date{
+    padding: 0px;
+    margin: 0px;
+}
+.btf-small-text{
+    font-size: 13px;
+}
+.footer-back-img{
+    background-image: url(../img/Jungle\ bridge.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer-head{
+    padding-top: 150px;
+}
+footer input{
+padding: 10px;
+width: 100%;
+}
+.footer-input{
+    padding-bottom: 100px;
+}
